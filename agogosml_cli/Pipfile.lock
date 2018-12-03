@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "b5cad9265547e6bd24a3b64dfb28debaaca602c38ba68c8d871647f34bb5e033"
+            "sha256": "461769a83910846bd1471b2e61712b6c865f01564de44faaf211702bfcf07575"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -62,13 +62,6 @@
                 "sha256:ed8f54a8fc79b6864020d773ce11539b5f08e4617f353de1f22d23226f6a0d36"
             ],
             "version": "==1.6.0"
-        },
-        "decorator": {
-            "hashes": [
-                "sha256:2c51dff8ef3c447388fe5e4453d24a2bf128d3a4c32af3fabef1f01c6851ab82",
-                "sha256:c39efa13fbdeb4506c476c9b3babf6a718da943dab7811c206005a4a956c080c"
-            ],
-            "version": "==4.3.0"
         },
         "future": {
             "hashes": [
@@ -192,12 +185,6 @@
                 "sha256:de9529817c93f27c8ccbfead6985011db27bd0ddfcdb2d86f3f663385c6a9c22"
             ],
             "version": "==1.24.1"
-        },
-        "validators": {
-            "hashes": [
-                "sha256:cb9c61250ee23a68e8b5f75319c3cd3668af83112fed4f72dfe352f65fe5387c"
-            ],
-            "version": "==0.12.3"
         },
         "whichcraft": {
             "hashes": [
